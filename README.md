@@ -4,12 +4,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=serserilerdesever&style=flat-square&color=blueviolet&label=fan+sayisi" alt="kac-kisi-bakmis" />
-</div>
-
----
-
 ### biraz ben
 
 - aktif olarak proje geliştiriyorum fakat paylaşmıyorum
@@ -31,6 +25,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=serserilerdesever&show_icons=true&theme=dracula&hide_border=true&bg_color=20232a" height="180" alt="stats-graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serserilerdesever&layout=compact&theme=dracula&hide_border=true&bg_color=20232a" height="180" alt="languages-graph"  />
+</div> <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=serserilerdesever&style=flat-square&color=blueviolet&label=fan+sayisi" alt="kac-kisi-bakmis" />
 </div>
 
 ---
