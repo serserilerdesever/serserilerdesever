@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=serserilerdesever&style=flat-square&color=blueviolet&label=Profile+Bakışı" alt="kac-kisi-bakmis" />
+  <img src="https://komarev.com/ghpvc/?username=serserilerdesever&style=flat-square&color=blueviolet&label=fan+sayisi" alt="kac-kisi-bakmis" />
 </div>
 
 ---
