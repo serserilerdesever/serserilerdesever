@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=313lujylgsqqcym6y2b63ma6aaua&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://komarev.com/ghpvc/?username=serserilerdesever&style=flat-square&color=blueviolet&label=Profile+Bakışı" alt="kac-kisi-bakmis" />
 </div>
 
 ---
