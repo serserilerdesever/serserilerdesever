@@ -1,12 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:ff0080&height=300&section=header&text=Serserilerde%20Sever&fontSize=70&fontAlign=50&animation=twinkling&fontAlignY=40&desc=Yazılım%20%7C%20Geliştirme%20%7C%20Teknoloji&descAlign=50&descAlignY=60" width="100%"/>
-</div>
-<br/>
-
-<div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Kod+yazmay%C4%B1+seviyorum;Projeler+geli%C5%9Ftiriyorum;Teknoloji+ba%C4%9F%C4%B1ml%C4%B1s%C4%B1y%C4%B1m" alt="Typing SVG" />
-</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:ff0080&height=300&section=header&text=serseriler%20de%20sever&fontSize=70&fontAlign=50&animation=twinkling&fontAlignY=40&desc=4%20%7C%204%20%7C%204&descAlign=50&descAlignY=60" width="100%"/>
 </div>
 
 <hr/>
@@ -23,7 +16,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,mysql,git,linux,vscode,discord&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,python,mysql,git,vscode,discord&perline=8" />
   </a>
 </div>
 
